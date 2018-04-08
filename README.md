@@ -2,6 +2,9 @@
 
     纯静态页面，直接使用nginx等部署；
     
+    
+演示地址：[http://yunwei.cxkh.17vote.com](http://yunwei.cxkh.17vote.com)
+    
 
 ##   备注
 
